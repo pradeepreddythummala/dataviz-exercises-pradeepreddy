@@ -141,13 +141,11 @@ fig4 = px.box(
     filtered_df,
     x="stage_name",
     y="Total Goals",
-
     color="stage_name",
     title="Goals Distribution by Stage"
 )
 
 st.plotly_chart(fig4,use_container_width=True)
-
 st.markdown("---")
 st.header("Question 5: Top Teams by Average Shots on Target")
 
