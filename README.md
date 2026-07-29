@@ -1,13 +1,5 @@
-# London Airbnb Analytics Dashboard
+# Week 11 Gapminder Dashboard
 
 ## Live Streamlit App
-https://dataviz-exercises-pradeepreddy-cmv6shfri8fgyrsqk8qrqt.streamlit.app/
+https://dataviz-exercises-pradeepreddy-mqodufvscfpu8hbgvnx8f8.streamlit.app/
 
-## GitHub Repository
-https://github.com/pradeepreddythummala/dataviz-exercises-pradeepreddy
-
-## Description
-This project is an interactive Streamlit dashboard for exploring the London Airbnb dataset. It includes:
-- Market Overview
-- Drill-down Analysis
-- Demand Analysis
